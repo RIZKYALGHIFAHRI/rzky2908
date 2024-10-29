@@ -9,7 +9,7 @@
     /* background-color: rebeccapurple; */
 }
 .blog-post-content h1{
-    text-align: justify;
+    text-align: center;
 }
 .blog-post-content p{
     font-size: 18px; 
@@ -20,7 +20,7 @@
 }
 .more-post{
     flex-direction: column; 
-    align-items: center;
+    align-items: justify;
 }
 .blogpost-meta{ 
     display: flex;
