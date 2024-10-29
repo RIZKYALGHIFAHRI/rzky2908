@@ -12,6 +12,7 @@
 
 .font1 {
   font-family: var(--font1);
+  text-align: justify
 }
 .font2 {
   font-family: var(--font2);
